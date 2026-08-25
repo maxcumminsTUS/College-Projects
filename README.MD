@@ -1,6 +1,6 @@
 # College Projects
 
-A collection of projects completed as part of my **Computer Networks & Cybersecurity** course at **Technological University of the Shannon.
+A collection of projects completed as part of my Computer Networks & Cybersecurity course at Technological University of the Shannon.
 
 ## Projects
 
